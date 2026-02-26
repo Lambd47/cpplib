@@ -1,5 +1,5 @@
 template<class T, class cmp = less<T>>//se quiser trocar pra greater
-//inspirado no defnotmee
+//copiado do mano defnotmee
 struct CarTree{
     //menor em cima, maior em baixo
     //em particular, menor de todos eh o root, maiores as folhas
