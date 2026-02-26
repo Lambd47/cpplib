@@ -1,4 +1,4 @@
-template<class T, class cmp = less<T>>//se quiser trocar pra greater
+template<class T, class cmp = less<T>>
 //copiado do mano defnotmee
 struct CarTree{
     //menor em cima, maior em baixo
