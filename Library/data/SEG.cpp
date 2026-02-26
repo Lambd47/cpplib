@@ -1,3 +1,4 @@
+template<class Info>
 struct SegmentTree {
     int n;
     std::vector<Info> info;
